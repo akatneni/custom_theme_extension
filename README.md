@@ -1,0 +1,2 @@
+
+To create a new image with a custom theme, modify the variables.css file. Then, run the python script with 2 command line arguments: the first argument is the path to the .css file and the second argument is the path to the original container. The script will create a copy of the original container with a modified theme file. It will then build and run the container image.
